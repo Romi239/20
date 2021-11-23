@@ -1,0 +1,108 @@
+.hola{
+    border: 5px ridge rgb(20, 24, 32);
+    background-color: rgb(221, 144, 236);
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 30px ;
+    padding-left: 80px
+  }
+
+  .hola1{
+    border: 5px ridge rgb(20, 24, 32);
+    background-color: rgb(221, 144, 236);
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 30px ;
+    padding-left: 80px
+  }
+
+  .caja1{
+    border: 5px none rgb(20, 24, 32);
+    background-color: rgb(221, 144, 236);
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 30px ;
+    padding-left: 80px
+  }
+
+  .caja2{
+    border: 5px hidden rgb(20, 24, 32);
+    background-color: rgb(221, 144, 236);
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-right: 30px ;
+    padding-left: 80px
+  }
+
+  .caja3{
+    border: 10px dotted;
+    background-color: rgb(221, 144, 236);
+    padding-top: 100px;
+    padding-bottom: 60px;
+    padding-right: 40px;
+    padding-left: 90px;
+  }
+  
+  .caja4{
+    border: 5px dashed;
+    background-color: rgb(221, 144, 236);
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 40px;
+    margin-left: 90px;
+  }
+
+  .caja5{
+    border: 5px double;
+    background-color: rgb(221, 144, 236);
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 40px;
+    margin-left: 90px;
+  }
+
+  .caja6{
+    border: 5px groove;
+    background-color: rgb(221, 144, 236);
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 40px;
+    margin-left: 90px;
+  }
+
+  .caja7{
+    border: 5px ridge;
+    background-color: rgb(221, 144, 236);
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 40px;
+    margin-left: 90px;
+  }
+
+  .caja8{
+    border: 5px inset;
+    background-color: rgb(221, 144, 236);
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 40px;
+    margin-left: 90px;
+  }
+
+  .caja9{
+    border: 5px outset;
+    background-color: rgb(221, 144, 236);
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 40px;
+    margin-left: 90px;
+  }
+
+  .caja10{
+    border: 5px solid;
+    background-color: rgb(221, 144, 236);
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-right: 40px;
+    margin-left: 90px;
+  }
+
